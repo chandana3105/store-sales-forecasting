@@ -1,5 +1,7 @@
 # Store Sales Time Series Forecasting
 
+Tableau Dashboard: https://public.tableau.com/app/profile/chandana.priya.srinivasa/viz/StoreSalesForecasting_17793051184020/StoreSalesAnalysis
+
 A machine learning project to predict daily unit sales for Corporacion Favorita, Ecuador's largest grocery chain, across 54 stores and 33 product families.
 
 This is based on the Kaggle competition: https://www.kaggle.com/competitions/store-sales-time-series-forecasting
